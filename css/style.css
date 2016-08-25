@@ -6257,3 +6257,7 @@ i.red{
 .timeline-Header{
   display: none;
 }
+
+.owl-carousel-fullwidth.owl-theme .owl-dots{
+      margin-bottom: 10.5em;
+}
