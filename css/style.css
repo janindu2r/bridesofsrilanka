@@ -6371,10 +6371,6 @@ i.red{
   float: left;
 }
 
-.item{
-  margin: 0 5%;
-}
-
 .Aligner {
   display: flex;
   align-items: center;
